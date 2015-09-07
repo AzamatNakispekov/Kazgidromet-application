@@ -1,0 +1,19 @@
+.contener{
+height: 450px; width: 460px;
+position:relative;
+left= 250px;}
+    
+.header{
+height: 350px; width: 860px;
+ display: block; 
+ height: 100px}
+.table{
+    position: relative;
+  top: 15px;}
+
+.button{
+  position: relative;
+    top: 15px;
+left:365px}
+h2{
+    color: deepskyblue;}
